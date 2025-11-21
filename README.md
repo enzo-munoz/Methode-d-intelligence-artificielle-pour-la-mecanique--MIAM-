@@ -1,1 +1,1 @@
-#Méthode d'intelligence artificielle pour la mécanique
+# Méthode d'intelligence artificielle pour la mécanique
